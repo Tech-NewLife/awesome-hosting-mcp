@@ -64,7 +64,7 @@ The goal of this project is to provide **one centralized place** to discover, co
 
 | Provider | Description | Status |
 |-----------|-------------|:------:|
-| InterServer | VPS, Dedicated Servers, Shared Hosting, DNS, Billing | 🚧 Planned |
+| [InterServer](https://www.interserver.net/) | VPS, Dedicated Servers, Shared Hosting, DNS, Billing | 🚧 Planned |
 | Contabo | VPS and Dedicated Server Management | 🚧 Planned |
 | Hostinger | hPanel, Hosting, Email, Domains | 🚧 Planned |
 | Hetzner | Cloud & Dedicated Infrastructure | 🚧 Planned |
