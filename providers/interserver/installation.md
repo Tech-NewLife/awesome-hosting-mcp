@@ -11,7 +11,7 @@
 
 > Installation guide for the InterServer MCP project.
 
-**Status:** 🚧 Planned
+**Status:** ✅ Available
 
 ---
 
