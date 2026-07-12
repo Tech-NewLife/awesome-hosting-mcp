@@ -18,7 +18,7 @@ This repository focuses specifically on the **hosting and infrastructure ecosyst
 
 ---
 
-# Why Awesome Hosting MCP?
+# Why MCP-Hosting-Directory?
 
 Hosting platforms are made up of many different technologies:
 
