@@ -1,10 +1,10 @@
-> [!IMPORTANT]
-> This is an independent, community-maintained specification.
-> It is not an official InterServer MCP implementation.
+[!IMPORTANT]
+> This repository does not currently include an installable MCP server
+> implementation.
 >
-> The InterServer REST API references are based on publicly available
-> documentation. MCP tool names, schemas, workflows, and architecture
-> described here are proposed unless explicitly marked as implemented.
+> InterServer's hosted MCP service and Management API are available, but
+> the commands and configurations in this document describe how a future
+> custom community implementation could be structured.
 
 
 # Installation
@@ -23,7 +23,7 @@ The InterServer MCP project acts as a bridge between AI assistants and InterServ
 
 ---
 
-# Prerequisites
+# Proposed Prerequisites
 
 Before installing the MCP server, ensure you have:
 
@@ -149,23 +149,6 @@ Example MCP configuration:
 
 The exact configuration depends on the MCP client being used.
 
----
-
-# Verify Installation
-
-After starting the MCP server, verify that it is running correctly.
-
-Example prompt:
-
-```
-List my VPS.
-```
-
-Expected response:
-
-```
-Found 3 VPS instances.
-```
 
 ---
 
